@@ -1,0 +1,15 @@
+{
+  "hello": "Hello",
+  "welcome_back": "Welcome back",
+  "enter_email": "Enter Email",
+  "please_enter_email": "Please enter your Email",
+  "password": "Password",
+  "password_is_required": "Password is required",
+  "password_strength": "Password Must be more than 9 characters",
+  "strong_password_required": "Please Provide Strong password",
+  "login": "Login",
+  "dont_have_account": "Don't have an account?",
+  "sign_up": "Sign up",
+  "welcome_message": "Welcome back to the app!",
+  "introduction": "I am here to help you navigate through the app with ease. Feel free to explore and learn more!"
+}

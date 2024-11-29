@@ -1,0 +1,15 @@
+{
+  "hello": "હેલો",
+  "welcome_back": "સ્વાગત છે",
+  "enter_email": "ઇમેઇલ દાખલ કરો",
+  "please_enter_email": "કૃપા કરીને તમારો ઈમેઈલ દાખલ કરો",
+  "password": "પાસવર્ડ",
+  "password_is_required": "પાસવર્ડ જરૂરી છે",
+  "password_strength": "પાસવર્ડ 9 અક્ષરો કરતાં વધુ હોવો જોઈએ",
+  "strong_password_required": "કૃપા કરીને મજબૂત પાસવર્ડ આપો",
+  "login": "લોગિન",
+  "dont_have_account": "ખાતું નથી? ",
+  "sign_up": "સાઇન અપ કરો",
+  "welcome_message": "એપમાં ફરીથી આવકાર છે!",
+  "introduction": "હું અહીં છું તમારી મદદ માટે. એપમાં તમારી આસાની માટે જાઓ અને વધુ શીખો!"
+}
